@@ -2,7 +2,7 @@
 
 ## Aplicação
 
-A visualização da aplicação pelo navegador <a target="_blank" href="https://leandroncosta.github.io/cards-Yugioh/">Clique aqui</a> (vai abrir em outra aba)
+A visualização da aplicação pelo navegador <a href="https://leandroncosta.github.io/cards-Yugioh/" target="_blank">Clique aqui</a> 
 
 ## O que é?
 - A aplicação é um baralho com as famosas cartinhas do YugiOh, as cartas tem algumas interações como Zomm hover, girar as cartas e esconder. 
